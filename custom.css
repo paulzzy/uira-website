@@ -1,27 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+
+* {
+    box-sizing: border-box; 
+}
 
 html {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+body {
+    margin: auto;
 }
 
 header {
     position: sticky;
     top:0;
-    /* padding:20px; */
     background: #F5F2EE;
-    text-align: center;
-  }
+}
+
+.page {
+    max-width: 80vw;
+    margin: auto;
+    margin-bottom: 8vh;
+    margin-top: 8vh;
+}
 
 .headshot {
+    width: 160px;
+    height: 160px;
     border-radius: 100%;
     max-width: 50%;
+    object-fit: cover;
+    overflow: hidden;
 }
 
 .grid-container {
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 1fr 1fr;
     gap: 50px 100px;
     padding: 10px;
-  }
+}
+
+.grid-container-founders {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 50px 100px;
+    padding: 10px;
+}
+
 
 
 .contactform {

@@ -41,10 +41,13 @@ class Footer extends HTMLElement {
             margin: 0 15px;
           }
 
+          .icon {
+            font-size: 48px
+          }
+
         </style>
         <footer>
-          <h1>UCLA</h1>
-          <h3>Undergraduate Interdisciplinary Research Association</h3>
+          <h3>Undergraduate Interdisciplinary Research Association at UCLA</h3>
           <ul>
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About</a></li>
