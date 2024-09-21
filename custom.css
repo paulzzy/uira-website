@@ -48,6 +48,15 @@ header {
     padding: 10px;
 }
 
+.groupphoto {
+    width: 50%;
+    height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+    float: right;
+    padding: 30px;
+}
+
 .formpage {
     padding: 20px;
     position: inherit;
