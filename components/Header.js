@@ -38,15 +38,22 @@ class Header extends HTMLElement {
             box-shadow:  12px 12px 2px 1px rgba(0, 0, 255, .2);
           }
 
+          .headerlogo {
+            max-height: 60px;
+            margin-left: 30px;
+          }
+
         </style>
         <header>
           <nav>
-            <h3>UIRA</h3>
+            <img src="images/uiralogo.PNG" class="headerlogo">
+            <h3>UIRA @ UCLA</h3>
             <ul>
               <li><a href="index.html">Home</a></li>
               <li><a href="about.html">About</a></li>
               <li><a href="contact.html">Contact</a></li>
-              <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeBjPGxwt7D1XYR6ewPVUk0R59oDKLASUUjJCu4ki1wRcWT6Q/viewform?usp=sf_link">Stay Updated!</a></li>
+              <li><a href="posterdayarchive.html">Poster Day Archive</a></li>
+              <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeBjPGxwt7D1XYR6ewPVUk0R59oDKLASUUjJCu4ki1wRcWT6Q/viewform?usp=sf_link" target="_blank">Stay Updated!</a></li>
               </ul>
           </nav>
         </header>
