@@ -46,7 +46,7 @@ class Header extends HTMLElement {
               <li><a href="index.html">Home</a></li>
               <li><a href="about.html">About</a></li>
               <li><a href="contact.html">Contact</a></li>
-              <li><a href="boardapp.html">Join Our Board!</a></li>
+              <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeBjPGxwt7D1XYR6ewPVUk0R59oDKLASUUjJCu4ki1wRcWT6Q/viewform?usp=sf_link" class="button1">Stay Updated!</a></li>
               </ul>
           </nav>
         </header>
@@ -57,3 +57,4 @@ class Header extends HTMLElement {
   customElements.define('header-component', Header);
 
                 // <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeBjPGxwt7D1XYR6ewPVUk0R59oDKLASUUjJCu4ki1wRcWT6Q/viewform?usp=sf_link" class="button">Apply for Poster Day!</a></li>
+                //              <li><a href="boardapp.html">Join Our Board!</a></li>

@@ -1,0 +1,21 @@
+<!-- <div id="posterday">
+        <h2>Apply for Poster Day</h2>
+        <p>
+          Poster Day 2024 hosted by the Undergraduate Interdisciplinary Research Association is a UCLA-wide opportunity for 
+          undergraduate researchers to present their interdisciplinary research through poster presentations 
+          in a public forum. Creating such a space allows undergraduate students to cultivate skills necessary 
+          for a future career in research, including effective public speaking, scientific communication and 
+          productive cross-disciplinary discourse. Additionally, the event opens opportunities for interdisciplinary 
+          researchers to connect and build a community.
+        </p>
+        <p>Link to application:</p>
+        <a class="button"  href="https://docs.google.com/forms/d/e/1FAIpQLSeBjPGxwt7D1XYR6ewPVUk0R59oDKLASUUjJCu4ki1wRcWT6Q/viewform?usp=sf_link">Apply for Poster Day</a>
+      </div>
+
+      <div id="chairapp">
+        <h2>Join Us</h2>
+        <p>
+          Apply to join our executive team of students passionate about research!
+        </p>
+        <a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLScPNrfDDSImm4tiZ3ShffpLUB278uuPbwjNFffP6SSTHA3zwA/viewform">Application Form</a>
+      </div> -->
